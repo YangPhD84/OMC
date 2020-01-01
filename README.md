@@ -10,11 +10,8 @@ Description:
 "KNN_drugS.m" is the function of KNN Preprocessing based on drug similarity matrix.  
 "KNN_diseaseS.m" is the function of KNN Preprocessing based on disease similarity matrix.
 
-Citation:
+Citation:  
+Yang M, Luo H, Li Y, Wu F-X, Wang J. Overlap matrix completion for predicting drug-associated indications[J]. PLoS Computational Biology, 2019, 15(12): e1007541.  
 
-Yang M, Luo H, Li Y, Wu F-X, Wang J. Overlap matrix completion for predicting drug-associated indications[J]. PLoS Computational Biology, 2019, 15(12): e1007541.
-
-Contact:
-
-If you have any questions or suggestions with the code, please let us know. 
-Contact Mengyun Yang at mengyunyang@csu.edu.cn
+Contact:  
+If you have any questions or suggestions with the code, please let us know. Contact Mengyun Yang at mengyunyang@csu.edu.cn
